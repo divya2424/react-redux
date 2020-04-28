@@ -1,0 +1,4 @@
+export const FETCH_NEWS_SUCCESS = "FETCH_NEWS_SUCCESS";
+export const FETCH_NEWS_FAILURE = "FETCH_NEWS_FAILURE";
+export const SHOW_LOADER = "SHOW_LOADER";
+export const HIDE_LOADER = "HIDE_LOADER";
